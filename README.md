@@ -70,7 +70,7 @@ Current Work: Problem Solving + Core CS
 ### Currently Listening
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zm4roay3hwtnkipvksyksmnbyq&cover_image=true&theme=novatorem&bar_color=7F5AF0&bar_color_cover=true"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zm4roay3hwtnkipvksyksmnbyq&cover_image=true&theme=default&bar_color=7F5AF0&bar_color_cover=true"/>
 </p>
 
 ---
@@ -83,11 +83,13 @@ Current Work: Problem Solving + Core CS
 
 ---
 
-### Contact
 
-* Email: zeeshanalex2@gmail.com
+### Contact  
 
----
+- Email: zeeshanalex2@gmail.com  
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer"/>
