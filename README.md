@@ -23,12 +23,7 @@ Learning: DSA + Networking
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=java)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge\&logo=tensorflow)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge\&logo=pandas)
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
