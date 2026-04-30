@@ -64,11 +64,13 @@ Current Work: Problem Solving + Core CS
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Oppenheimer_%28film%29.jpg" width="120"/>
-  <img src="https://i.scdn.co/image/ab67616d0000b273a2b5f4f4c4c4c4c4c4c4c4c4" width="120"/>
-  <img src="https://i.scdn.co/image/ab67616d0000b273d4e5f6f6f6f6f6f6f6f6f6f6" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ludwig_G%C3%B6ransson_-_Oppenheimer.png" width="120"/>
+  <img src="https://linkstorage.linkfire.com/medialinks/images/a49305d1-d1e8-4531-9e0a-a5f71492759d/artwork-440x440.jpg" width="120"/>
 </p>
 
+<p align="center">
+ Interstellar OST • Oppenheimer OST • TalkingToys 
+</p>
 ---
 
 ### Contribution
