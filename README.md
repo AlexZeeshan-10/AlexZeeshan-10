@@ -70,7 +70,7 @@ Current Work: Problem Solving + Core CS
 ### Currently Listening
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zm4roay3hwtnkipvksyksmnbyq&cover_image=true&theme=default&bar_color=7F5AF0&bar_color_cover=true"/>
+  <img src="https://spotify-now-playing-readme.vercel.app/api/spotify" />
 </p>
 
 ---
