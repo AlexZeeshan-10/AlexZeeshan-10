@@ -64,7 +64,7 @@ Learning: DSA + Networking
 
 ---
 
-## 📈 AI Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
 
