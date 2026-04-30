@@ -65,8 +65,8 @@ Current Work: Problem Solving + Core CS
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ludwig_G%C3%B6ransson_-_Oppenheimer.png" width="120"/>
-  <img src="https://linkstorage.linkfire.com/medialinks/images/a49305d1-d1e8-4531-9e0a-a5f71492759d/artwork-440x440.jpg" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ludwig_G%C3%B6ransson_-_Oppenheimer.png" width="130"/>
+  <img src="https://linkstorage.linkfire.com/medialinks/images/a49305d1-d1e8-4531-9e0a-a5f71492759d/artwork-440x440.jpg" width="130"/>
 </p>
 
 <p align="center">
