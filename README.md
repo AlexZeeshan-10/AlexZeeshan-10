@@ -23,9 +23,10 @@ Current Work: Problem Solving + Core CS
 
 <p>
 
-![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python)
 
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge\&logo=github)
