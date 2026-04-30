@@ -1,4 +1,3 @@
-# Zeeshan
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=120&section=header&text=Zeeshan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
