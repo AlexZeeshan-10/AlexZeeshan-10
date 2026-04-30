@@ -63,17 +63,12 @@ Current Work: Problem Solving + Core CS
 ### Currently Listening
 
 <p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="120"/>
-<img src="https://i.scdn.co/image/ab67616d0000b273f6c8f9d9f5c1a7a1c9c5e4d1" width="120"/>
-<img src="https://i.scdn.co/image/ab67616d0000b273c0b0c0c0c0c0c0c0c0c0c0c0" width="120"/>
-<img src="https://i.scdn.co/image/ab67616d0000b2736d7f6b3e1e4e1c9d9a8a7b6c" width="120"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Oppenheimer_%28film%29.jpg" width="120"/>
+  <img src="https://i.scdn.co/image/ab67616d0000b273a2b5f4f4c4c4c4c4c4c4c4c4" width="120"/>
+  <img src="https://i.scdn.co/image/ab67616d0000b273d4e5f6f6f6f6f6f6f6f6f6f6" width="120"/>
 </p>
 
-<p align="center">
-Interstellar OST • Ambient • Lo-fi • Focus Music
-</p>
 ---
 
 ### Contribution
