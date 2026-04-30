@@ -1,110 +1,83 @@
-# 🤖 Hey, I'm Zeeshan
+# Zeeshan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🤖;DSA+Grinder+🔥;Future+OpenAI+Engineer+🚀;Consistency+is+Power+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&size=22&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Data+Structures+%26+Algorithms;Systems+%26+Learning" />
 </p>
 
 ---
 
-## 🧠 About Me (AI Mode Activated)
+### About
 
-```yaml
-Name: Zeeshan
-Role: BTech CSE Student
-Focus: DSA + Cyber Security + Artificial Intelligence 
-Learning: DSA + Networking
+```yaml id="n3p9af"
+Name: Zeeshan  
+Discipline: Computer Science Engineering  
+Focus: Artificial Intelligence, DSA, Cyber Security  
+Current Work: Problem Solving + Core CS Foundations  
 ```
 
 ---
 
-## ⚡ Tech Stack
+### Tech Stack
 
-<p align="center">
+<p>
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge\&logo=python)
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge\&logo=visualstudiocode)
-
-</p>
-
----
-
-## 📊 Neural Stats (GitHub)
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" height="170"/>
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-1a1a2e?style=for-the-badge\&logo=visualstudiocode)
 
 </p>
 
 ---
 
-## 🧬 Code DNA (Languages)
+### Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=midnight-purple&hide_border=true" height="160"/>
 
 </p>
 
 ---
 
-## 🧠 LeetCode Brain Activity
+### Languages
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=baloo&radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+### LeetCode
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZeeshan-10&theme=react-dark&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=nord&font=source_code_pro"/>
 
 </p>
 
 ---
 
-## 🏆 Achievements
+### Notes
 
-* 🧩 Solving DSA problems daily
-* 🔥 Maintaining coding streak
-* 🤖 Exploring AI & building projects
-* 🚀 Consistency mindset
+> “He who fears death will never do anything worthy of a man who is alive.”
+> — Seneca
 
----
+> “Waste no more time arguing what a good man should be. Be one.”
+> — Marcus Aurelius
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</p>
+> “If it is not right, do not do it; if it is not true, do not say it.”
+> — Marcus Aurelius
 
 ---
 
-## ⚡ System Philosophy
+### Contact
 
-> "Train your mind like a model — iterate, optimize, improve."
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
-</p>
+* LinkedIn: YOUR_LINKEDIN
+* Email: YOUR_EMAIL
