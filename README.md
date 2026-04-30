@@ -1,18 +1,22 @@
 # Zeeshan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&size=22&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Data+Structures+%26+Algorithms;Systems+%26+Learning" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=120&section=header&text=Zeeshan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&size=22&center=true&vCenter=true&width=750&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.;You+have+power+over+your+mind,+not+outside+events.;If+it+is+not+right,+do+not+do+it.;He+who+fears+death+will+never+act+worthy." />
 </p>
 
 ---
 
 ### About
 
-```yaml id="n3p9af"
+```yaml id="about01"
 Name: Zeeshan  
 Discipline: Computer Science Engineering  
 Focus: Artificial Intelligence, DSA, Cyber Security  
-Current Work: Problem Solving + Core CS Foundations  
+Current Work: Problem Solving + Core CS   
 ```
 
 ---
@@ -64,20 +68,28 @@ Current Work: Problem Solving + Core CS Foundations
 
 ---
 
-### Notes
+### Currently Listening
 
-> “He who fears death will never do anything worthy of a man who is alive.”
-> — Seneca
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zm4roay3hwtnkipvksyksmnbyq&cover_image=true&theme=novatorem&bar_color=7F5AF0&bar_color_cover=true"/>
+</p>
 
-> “Waste no more time arguing what a good man should be. Be one.”
-> — Marcus Aurelius
+---
 
-> “If it is not right, do not do it; if it is not true, do not say it.”
-> — Marcus Aurelius
+### Contribution
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexZeeshan-10&color=7F5AF0&style=flat-square"/>
+</p>
 
 ---
 
 ### Contact
 
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
+* Email: zeeshanalex2@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer"/>
+</p>
