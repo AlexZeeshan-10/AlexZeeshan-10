@@ -1,7 +1,7 @@
-# 🤖 Hey, I'm Zeeshan 
+# 🤖 Hey, I'm Zeeshan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A4%96;DSA+Grinder+%F0%9F%94%A5;Future+OpenAI+Engineer+%F0%9F%9A%80;Consistency+is+Power+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🤖;DSA+Grinder+🔥;Future+OpenAI+Engineer+🚀;Consistency+is+Power+💪" />
 </p>
 
 ---
@@ -37,8 +37,8 @@ Learning: DSA + Networking
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -48,7 +48,7 @@ Learning: DSA + Networking
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -58,7 +58,7 @@ Learning: DSA + Networking
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&radius=10"/>
+<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=baloo&radius=10"/>
 
 </p>
 
@@ -68,7 +68,7 @@ Learning: DSA + Networking
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZeeshan-10&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -87,7 +87,7 @@ Learning: DSA + Networking
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
