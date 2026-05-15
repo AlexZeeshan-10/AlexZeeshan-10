@@ -1,102 +1,103 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=120&section=header&text=Zeeshan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&customColorList=1a1b26,24283b,7aa2f7&height=150&section=header&text=Zeeshan&fontSize=50&fontColor=a9b1d6&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&customColorList=1a1b26,24283b,7aa2f7&height=150&section=header&text=Zeeshan&fontSize=50&fontColor=a9b1d6&animation=fadeIn" alt="Zeeshan Header Portfolio" />
+  </picture>
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Data+Structures+%26+Algorithms;Cyber+Security+Enthusiast;Transforming+Data+into+Actionable+Intelligence" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="left">👨‍💻 Engineering Identity</h3>
+      <p align="left">
+        I am a <strong>Computer Science Engineer</strong> operating at the intersection of machine learning, algorithmic efficiency, and offensive security. I specialize in building resilient systems and deploying intelligent computational models.
+      </p>
+      <ul>
+        <li>🔭 Actively researching <strong>Multimodal AI & NLP Architectures</strong></li>
+        <li>🛡️ Sharpening penetration testing skills on <strong>TryHackMe</strong></li>
+        <li>⚙️ Architecting scalable backend solutions in <strong>Python & C++</strong></li>
+        <li>📫 Connect via secure channels: <a href="mailto:zeeshanalex2@gmail.com">zeeshanalex2@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="left">🛠️ Computational Technology Stack</h3>
+      <div align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,c,cpp,java,tensorflow,pytorch,linux,kali,docker,git,github,vscode&perline=6&theme=dark" alt="Technology Stack Grid" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">📊 Version Control & Collaboration Telemetry</h3>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Comprehensive GitHub Statistics" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none;" align="center">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" alt="Daily Contribution Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">🧠 Algorithmic & Security Validation Metrics</h3>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;" align="center">
+      <a href="https://leetcode.com/AlexZeeshan-10">
+        <img src="https://leetcard.jacoblin.cool/AlexZeeshan-10?theme=dark&font=Fira%20Code&ext=heatmap&colors=1a1b26,24283b,a9b1d6,a9b1d6,7aa2f7,f7768e,9ece6a,bb9af7" alt="LeetCode Algorithmic Statistics" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none;" align="center">
+      <a href="https://tryhackme.com/p/AlexZeeshan-10">
+        <img src="./assets/thm-badge.png" alt="TryHackMe Cybersecurity Credential" style="max-width: 100%; border-radius: 8px;" />
+      </a>
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="100%" valign="top" style="border: none;" align="center">
+      <h3 align="center">🎧 Real-Time Audio Telemetry API</h3>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b26&bar_color=7aa2f7">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b26&bar_color=7aa2f7" alt="Spotify Real-Time Playback" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3 align="center">🐍 Continuous Integration History</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&size=22&center=true&vCenter=true&width=750&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.;You+have+power+over+your+mind,+not+outside+events.;If+it+is+not+right,+do+not+do+it.;He+who+fears+death+will+never+act+worthy." />
-</p>
-
----
-
-### About
-
-```yaml
-Name: Zeeshan  
-Discipline: Computer Science Engineering  
-Focus: Artificial Intelligence, DSA, Cyber Security  
-Current Work: Problem Solving + Core CS  
-```
-
----
-
-### Tech Stack
-
-<p>
-
-![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python)
-
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-1a1a2e?style=for-the-badge\&logo=visualstudiocode)
-
-</p>
-
----
-
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=midnight-purple&hide_border=true" height="160"/>
-</p>
-
----
-
-### Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-### LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=nord&font=source_code_pro"/>
-</p>
-
----
-
-### Currently Listening
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ludwig_G%C3%B6ransson_-_Oppenheimer.png" width="130"/>
-  <img src="https://linkstorage.linkfire.com/medialinks/images/a49305d1-d1e8-4531-9e0a-a5f71492759d/artwork-440x440.jpg" width="130"/>
-</p>
-
-<p align="center">
- Interstellar OST • Oppenheimer OST • TalkingToys 
-</p>
----
-
-### Contribution
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZeeshan-10&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexZeeshan-10&theme=midnight_purple"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexZeeshan-10&theme=midnight_purple"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexZeeshan-10&theme=midnight_purple"/>
-</p>
-
----
-
-### Contact
-
-* Email: [zeeshanalex2@gmail.com](mailto:zeeshanalex2@gmail.com)
-
-<br><br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&customColorList=1a1b26,24283b,7aa2f7&height=100&section=footer" alt="Automated Footer" />
 </p>
