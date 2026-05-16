@@ -1,6 +1,6 @@
 # Zeeshan GitHub Profile README
 
-````md
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Zeeshan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:1e293b,100:7c3aed" />
 </div>
@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 # 👨‍💻 About Me
 
@@ -37,7 +37,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux,docker,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux,kali&theme=dark" />
 
 </div>
 
@@ -97,6 +97,14 @@ Goal:
 <a href="https://github.com/AlexZeeshan-10">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
+
+# 🎧 Currently Listening
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31zm4roay3hwtnkipvksyksmnbyq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=8B5CF6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
