@@ -65,30 +65,6 @@ Goal:
 
 ---
 
-# 🛡️ Cybersecurity Journey
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/AlexZeeshan-10">
-  <img src="./assets/thm-badge.png" width="320" />
-</a>
-
-</div>
-
----
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/AlexZeeshan-10/DStrvr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexZeeshan-10&repo=DStrvr&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # 🎯 Current Goals
 
 * Solve DSA problems consistently
@@ -99,18 +75,6 @@ Goal:
 
 ---
 
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
 
 # 📈 Activity Graph
 
