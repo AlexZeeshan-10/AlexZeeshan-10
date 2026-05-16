@@ -100,14 +100,6 @@ Goal:
 
 </div>
 
-# 🎧 Currently Listening
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31zm4roay3hwtnkipvksyksmnbyq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=8B5CF6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 ---
 
 <div align="center">
