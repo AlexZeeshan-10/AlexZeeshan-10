@@ -27,8 +27,6 @@ Current Focus:
   - Strengthening DSA & Problem Solving
   - Learning Backend Development
   - Exploring AI & Machine Learning
-Goal:
-  - Become an AI Engineer
 ````
 
 ---
