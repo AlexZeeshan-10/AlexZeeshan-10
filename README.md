@@ -1,5 +1,3 @@
-# Zeeshan GitHub Profile README
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Zeeshan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:1e293b,100:7c3aed" />
@@ -105,4 +103,3 @@ Current Focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:7c3aed" />
 
 </div>
-```
