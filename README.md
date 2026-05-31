@@ -51,6 +51,12 @@ Current Focus:
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AlexZeeshan-10&theme=tokyonight&no-frame=true&row=1&column=6" /></div>
+
+---
+
 # 🧠 DSA & Coding Profiles
 
 <div align="center">
@@ -60,14 +66,6 @@ Current Focus:
 </div>
 
 ---
-
-# 📊 GitHub Statistics
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true" /></div>---
-
-# 🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AlexZeeshan-10&theme=tokyonight&no-frame=true&row=1&column=6" /></div>---
 
 # 🧠 DSA & Coding Profiles
 
