@@ -71,26 +71,11 @@ Current Focus:
 
 ---
 
-# 📈 Competitive Programming
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode)
-
-![DSA](https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge)
-
-![AI](https://img.shields.io/badge/Learning-AI-purple?style=for-the-badge)
-
-</div>
-
----
-
 # 🎯 Current Goals
 
 - Solve DSA problems consistently
 - Participate in coding contests regularly
 - Strengthen backend development skills
-- Learn Machine Learning deeply
 - Contribute to Open Source
 - Build impactful AI projects
 
