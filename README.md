@@ -51,12 +51,6 @@ Current Focus:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AlexZeeshan-10&theme=tokyonight&no-frame=true&row=1&column=6" /></div>
-
----
-
 # 🧠 DSA & Coding Profiles
 
 <div align="center">
@@ -67,19 +61,27 @@ Current Focus:
 
 ---
 
-# 🏅 LeetCode Badges
+# 🏅 LeetCode Progress
 
-<div align="center"><!-- Replace these with your actual earned badge URLs --><img src="https://assets.leetcode.com/static_assets/marketing/2025-50-lg.png" height="120"/><img src="https://assets.leetcode.com/static_assets/marketing/2025-100-lg.png" height="120"/></div>---
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=contest" />
+
+</div>
+---
 
 # 📈 Competitive Programming
 
-<div align="center">"LeetCode" (https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode)
+<div align="center">
 
-"DSA" (https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode)
 
-"AI" (https://img.shields.io/badge/Learning-Artificial%20Intelligence-purple?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge)
 
-</div>---
+![AI](https://img.shields.io/badge/Learning-AI-purple?style=for-the-badge)
+
+</div>
+---
 
 # 🎯 Current Goals
 
