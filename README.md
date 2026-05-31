@@ -61,13 +61,40 @@ Current Focus:
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true" /></div>---
+
+# 🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AlexZeeshan-10&theme=tokyonight&no-frame=true&row=1&column=6" /></div>---
+
+# 🧠 DSA & Coding Profiles
+
+<div align="center"><img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=heatmap" /></div>---
+
+# 🏅 LeetCode Badges
+
+<div align="center"><!-- Replace these with your actual earned badge URLs --><img src="https://assets.leetcode.com/static_assets/marketing/2025-50-lg.png" height="120"/><img src="https://assets.leetcode.com/static_assets/marketing/2025-100-lg.png" height="120"/></div>---
+
+# 📈 Competitive Programming
+
+<div align="center">"LeetCode" (https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode)
+
+"DSA" (https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+
+"AI" (https://img.shields.io/badge/Learning-Artificial%20Intelligence-purple?style=for-the-badge)
+
+</div>---
+
 # 🎯 Current Goals
 
-* Solve DSA problems consistently
-* Build strong backend fundamentals
-* Learn Machine Learning deeply
-* Contribute to open source projects
-* Create impactful AI projects
+- Solve DSA problems consistently
+- Participate in coding contests regularly
+- Strengthen backend development skills
+- Learn Machine Learning deeply
+- Contribute to Open Source
+- Build impactful AI projects
 
 ---
 
