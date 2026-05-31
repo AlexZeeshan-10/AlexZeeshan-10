@@ -61,11 +61,11 @@ Current Focus:
 
 ---
 
-# 🏅 LeetCode Progress
+# 🏅 LeetCode Badges
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=contest" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=alexzeeshan_10&theme=dark" />
 
 </div>
 ---
