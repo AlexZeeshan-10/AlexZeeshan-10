@@ -67,10 +67,6 @@ Current Focus:
 
 ---
 
-# 🧠 DSA & Coding Profiles
-
-<div align="center"><img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=heatmap" /></div>---
-
 # 🏅 LeetCode Badges
 
 <div align="center"><!-- Replace these with your actual earned badge URLs --><img src="https://assets.leetcode.com/static_assets/marketing/2025-50-lg.png" height="120"/><img src="https://assets.leetcode.com/static_assets/marketing/2025-100-lg.png" height="120"/></div>---
