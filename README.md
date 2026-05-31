@@ -68,6 +68,7 @@ Current Focus:
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=alexzeeshan_10&theme=dark" />
 
 </div>
+
 ---
 
 # 📈 Competitive Programming
@@ -81,6 +82,7 @@ Current Focus:
 ![AI](https://img.shields.io/badge/Learning-AI-purple?style=for-the-badge)
 
 </div>
+
 ---
 
 # 🎯 Current Goals
