@@ -69,23 +69,6 @@ Current Focus:
 
 ---
 
-# 📊 Stats & Profiles
-
-<div align="center">
-  <table width="100%" border="0" align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" width="90%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 # 🎯 Current Goals
 
 - Solve DSA problems consistently
