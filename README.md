@@ -29,6 +29,42 @@ Current Focus:
 
 ---
 
+# 📊 OPERATIONAL PROFILE
+<div align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<!-- Left Column: Themed Anchor Visual (Linked Static visual based on persona) -->
+<td align="center" width="30%">
+<a href="https://github.com/AlexZeeshan-10">
+<img src="path-to-custom-suit-image.jpg" alt="OPERATIONAL PROFILE" width="100%" />
+</a>
+</td>
+<!-- Right Column: Clean Dynamic Data Columns (Refined layout for existing tools) -->
+<td align="center" width="70%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=heatmap" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=alexzeeshan_10&theme=dark" />
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 # 🚀 Tech Stack
 
 <div align="center">
