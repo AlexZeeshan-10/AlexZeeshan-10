@@ -43,7 +43,7 @@ Current Focus:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" />
 
