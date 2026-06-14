@@ -14,28 +14,10 @@
 
 # 👨‍💻 About Me
 
-```yaml
-Name: Zeeshan
+Computer Science Engineering student with a strong interest in Cybersecurity and Software Development.
 
-Education:
-  - B.Tech Computer Science Engineering
+Currently focused on mastering Data Structures & Algorithms and improving backend development skills
 
-Interests:
-  - Artificial Intelligence
-  - Data Structures & Algorithms
-  - Backend Development
-  - Cybersecurity
-
-Current Focus:
-  - Strengthening DSA & Problem Solving
-  - Learning Backend Development
-  - Exploring AI & Machine Learning
-
-Goal:
-  - Become an AI Engineer
-```
-
----
 
 # 🚀 Tech Stack
 
