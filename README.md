@@ -1,18 +1,8 @@
 <div align="center">
 
-<img src="(https://i.pinimg.com/736x/56/e6/ba/56e6ba6f061f913ef77ed43fa13cdd06.jpg)" width="450" />
+<img src="https://i.pinimg.com/736x/f4/1c/c2/f41cc21c97cc468f7c8112a3a3e2a990.jpg" width="100%" />
 
 <br>
-
-<h1>Zeeshan</h1>
-
-<p>
-Building discipline through code.
-</p>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 
 <br><br>
 
@@ -58,6 +48,12 @@ Goal:
 ---
 
 # 📊 GitHub Stats
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
+
+</div>
 
 <div align="center">
 
