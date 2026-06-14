@@ -1,31 +1,49 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Zeeshan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:1e293b,100:7c3aed" />
-</div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+Enthusiast;DSA+%7C+Backend+%7C+Cybersecurity;Building+Projects+and+Learning+Everyday)](https://git.io/typing-svg)
+<img src="(https://i.pinimg.com/736x/56/e6/ba/56e6ba6f061f913ef77ed43fa13cdd06.jpg)" width="450" />
+
+<br>
+
+<h1>Zeeshan</h1>
+
+<p>
+Building discipline through code.
+</p>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1200&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.+Be+one.;You+have+power+over+your+mind,+not+outside+events.;If+it+is+not+right,+do+not+do+it.;The+impediment+to+action+advances+action.;What+stands+in+the+way+becomes+the+way.;He+who+fears+death+will+never+do+anything+worthy+of+a+man.;First+say+to+yourself+what+you+would+be,+and+then+do+what+you+have+to+do.)](https://git.io/typing-svg)
 
 </div>
 
-
+---
 
 # 👨‍💻 About Me
 
 ```yaml
 Name: Zeeshan
-Education: B.Tech CSE Student
+
+Education:
+  - B.Tech Computer Science Engineering
+
 Interests:
   - Artificial Intelligence
   - Data Structures & Algorithms
   - Backend Development
   - Cybersecurity
+
 Current Focus:
   - Strengthening DSA & Problem Solving
   - Learning Backend Development
   - Exploring AI & Machine Learning
-````
+
+Goal:
+  - Become an AI Engineer
+```
 
 ---
 
@@ -43,15 +61,21 @@ Current Focus:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
-
-</div>
-
-<div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📌 Featured Repository
+
+<div align="center">
+
+<a href="https://github.com/AlexZeeshan-10/DStrvr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexZeeshan-10&repo=DStrvr&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -84,9 +108,9 @@ Current Focus:
 - Strengthen backend development skills
 - Contribute to Open Source
 - Build impactful AI projects
+- Build strong AI/ML foundations
 
 ---
-
 
 # 📈 Activity Graph
 
@@ -106,16 +130,24 @@ Current Focus:
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
-   
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/AlexZeeshan-10">
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-   
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://discord.com/users/763383773814587443">
   <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:7c3aed" />
 
 </div>
