@@ -103,19 +103,19 @@ Current Focus:
 <div align="center">
 
 <a href="mailto:zeeshanalex2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
+
+   
 
 <a href="https://github.com/AlexZeeshan-10">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-</div>
+   
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:7c3aed" />
+<a href="https://discord.com/users/763383773814587443">
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
+</a>
 
 </div>
