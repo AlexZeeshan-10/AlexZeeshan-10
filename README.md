@@ -1,6 +1,7 @@
 <div align="center"><img src="https://i.pinimg.com/736x/f4/1c/c2/f41cc21c97cc468f7c8112a3a3e2a990.jpg" width="100%" /><br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=6000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.+Be+one.;You+have+power+over+your+mind,+not+outside+events.;What+stands+in+the+way+becomes+the+way.;Discipline+is+choosing+between+what+you+want+now+and+what+you+want+most.;A+man+conquers+the+world+by+conquering+himself.;Success+is+the+sum+of+small+efforts+repeated+day+in+and+day+out." /></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=6000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.+Be+one.;You+have+power+over+your+mind,+not+outside+events.;What+stands+in+the+way+becomes+the+way.;Discipline+is+choosing+between+what+you+want+now+and+what+you+want+most.;A+man+conquers+the+world+by+conquering+himself.;Success+is+the+sum+of+small+efforts+repeated+day+in+and+day+out." /></div>
+---
 
 👨‍💻 About Me
 
