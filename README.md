@@ -4,8 +4,6 @@
 
 <br>
 
-<div align="center"><img src="https://i.pinimg.com/736x/f4/1c/c2/f41cc21c97cc468f7c8112a3a3e2a990.jpg" width="100%" /><br><br>
-
 ""Typing SVG" (https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=6000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1400&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.+Be+one.;You+have+power+over+your+mind,+not+outside+events.;If+it+is+not+right,+do+not+do+it.;The+impediment+to+action+advances+action.;What+stands+in+the+way+becomes+the+way.;He+who+fears+death+will+never+do+anything+worthy+of+a+man.;First+say+to+yourself+what+you+would+be,+then+do+what+you+have+to+do.;The+best+revenge+is+not+to+be+like+your+enemy.;Luck+is+what+happens+when+preparation+meets+opportunity.;Discipline+is+choosing+between+what+you+want+now+and+what+you+want+most.;A+man+conquers+the+world+by+conquering+himself.;No+man+is+free+who+is+not+master+of+himself.;Difficulties+strengthen+the+mind+as+labor+does+the+body.;The+happiness+of+your+life+depends+upon+the+quality+of+your+thoughts.;Do+every+act+of+your+life+as+though+it+were+your+last.;The+greater+the+difficulty,+the+more+glory+in+surmounting+it.;Do+not+pray+for+an+easy+life,+pray+for+the+strength+to+endure+a+difficult+one.;The+man+who+moves+a+mountain+begins+by+carrying+away+small+stones.;Success+is+the+sum+of+small+efforts+repeated+day+in+and+day+out.;Your+future+is+created+by+what+you+do+today,+not+tomorrow.)" (https://git.io/typing-svg)
 
 </div>---
