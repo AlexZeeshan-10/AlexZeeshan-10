@@ -40,7 +40,17 @@ Currently focused on mastering Data Structures & Algorithms and improving backen
 
 ---
 
+# 📌 Featured Repository
 
+<div align="center">
+
+<a href="https://github.com/AlexZeeshan-10/DStrvr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexZeeshan-10&repo=DStrvr&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
 
 # 🧠 DSA & Coding Profiles
 
