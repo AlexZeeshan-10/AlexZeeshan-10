@@ -38,19 +38,23 @@ Currently focused on mastering Data Structures & Algorithms and improving backen
 
 </div>
 
----
-
-# 📌 Featured Repository
-
 <div align="center">
 
-<a href="https://github.com/AlexZeeshan-10/DStrvr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexZeeshan-10&repo=DStrvr&theme=tokyonight&hide_border=true" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
+
+# 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/AlexZeeshan-10/DStrvr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexZeeshan-10&repo=DStrvr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+
+</div>
 
 # 🧠 DSA & Coding Profiles
 
@@ -61,6 +65,7 @@ Currently focused on mastering Data Structures & Algorithms and improving backen
 </div>
 
 ---
+
 
 # 🏅 LeetCode Badges
 
