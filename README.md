@@ -3,13 +3,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=6000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.+Be+one.;You+have+power+over+your+mind,+not+outside+events.;What+stands+in+the+way+becomes+the+way.;Discipline+is+choosing+between+what+you+want+now+and+what+you+want+most.;A+man+conquers+the+world+by+conquering+himself.;Success+is+the+sum+of+small+efforts+repeated+day+in+and+day+out." /></div>
 ---
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
-Computer Science Engineering student with a strong interest in Cybersecurity and Software Development.
+I'm Zeeshan, a Computer Science Engineering student passionate about Artificial Intelligence, Cybersecurity, and Software Engineering.
 
-Currently focused on mastering Data Structures & Algorithms and improving backend development skills.
-
----
+Currently, I'm focused on mastering Data Structures & Algorithms, strengthening backend development skills, and building practical projects while continuously learning modern technologies.
 
 
 # 🚀 Tech Stack
@@ -30,42 +28,59 @@ Currently focused on mastering Data Structures & Algorithms and improving backen
 
 </div>
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexZeeshan-10&theme=tokyonight" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=AlexZeeshan-10&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexZeeshan-10&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexZeeshan-10&theme=tokyonight" width="48%" />
 
 </div>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📌 Featured Repositories
+# 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/AlexZeeshan-10/DStrvr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexZeeshan-10&repo=DStrvr&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<a href="https://github.com/AlexZeeshan-10/DSA">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin?username=AlexZeeshan-10&repo=DSA&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/AlexZeeshan-10/Development">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin?username=AlexZeeshan-10&repo=Development&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-# 🧠 DSA & Coding Profiles
+# 🏆 Competitive Programming
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=Fira%20Code&ext=heatmap" />
+<a href="https://leetcode.com/u/alexzeeshan_10/">
+<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+
+</a>
 
 </div>
 
----
+# 🐍 Contribution Snake
 
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg">
+
+<img
+src="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
 
 # 🏅 LeetCode Badges
 
