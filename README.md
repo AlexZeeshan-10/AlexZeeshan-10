@@ -71,16 +71,19 @@ Currently, I'm focused on mastering Data Structures & Algorithms, strengthening 
 <div align="center">
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg">
-
-<img
-src="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg"/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
 </picture>
 
 </div>
+
+---
 
 # 🏅 LeetCode Badges
 
