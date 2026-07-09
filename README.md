@@ -66,6 +66,11 @@ Currently, I'm focused on mastering Data Structures & Algorithms, strengthening 
 
 </div>
 
+# ⌛ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 🐍 Contribution Snake
 
 <div align="center">
