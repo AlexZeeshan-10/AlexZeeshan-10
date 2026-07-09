@@ -69,6 +69,13 @@ Currently, I'm focused on mastering Data Structures & Algorithms, strengthening 
 # ⌛ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
