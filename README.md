@@ -71,9 +71,10 @@ Currently, I'm focused on mastering Data Structures & Algorithms, strengthening 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr
 
-No activity tracked
+C++    1 hr                  ████████████████████████▓   99.23 %
+Text   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
