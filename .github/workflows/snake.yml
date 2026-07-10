@@ -13,17 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: AlexZeeshan-10
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Deploy Snake
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
