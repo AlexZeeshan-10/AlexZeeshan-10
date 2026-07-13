@@ -1,14 +1,42 @@
-<div align="center"><img src="https://i.pinimg.com/736x/f4/1c/c2/f41cc21c97cc468f7c8112a3a3e2a990.jpg" width="100%" /><br><br>
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=6000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Waste+no+more+time+arguing+what+a+good+man+should+be.+Be+one.;You+have+power+over+your+mind,+not+outside+events.;What+stands+in+the+way+becomes+the+way.;Discipline+is+choosing+between+what+you+want+now+and+what+you+want+most.;A+man+conquers+the+world+by+conquering+himself.;Success+is+the+sum+of+small+efforts+repeated+day+in+and+day+out." /></div>
+<img src="https://i.pinimg.com/736x/f4/1c/c2/f41cc21c97cc468f7c8112a3a3e2a990.jpg" width="100%" />
+
+<br>
+
+# 🌿 Reflections
+
+> *"In the end, the greatest victory is not over kingdoms, but over oneself. When the battles are over and ambition grows quiet, all that remains is the peace to admire a sky that never asked who won."*
+
+<br>
+
+> *"Every battle eventually ends. Every title is forgotten. Every sword grows dull. Yet the wind still moves through the fields, and the trees continue to stand. Perhaps peace was the destination all along."*
+
+<br>
+
+> *"When the noise of ambition fades, nature reminds us what was always enough."*
+
+<br>
+
+> *"We spend our lives preparing for war against the world, only to discover that the greatest reward was the silence we ignored along the way."*
+
+<br>
+
+> *"Strength is forged in conflict, but wisdom is found in stillness. I hope that after every challenge I face, I never lose the ability to sit quietly and admire the world that existed long before me."*
+
+</div>
+
 ---
 
 # 👨‍💻 About Me
 
-I'm Zeeshan, a Computer Science Engineering student passionate about Artificial Intelligence, Cybersecurity, and Software Engineering.
+I'm **Zeeshan**, a Computer Science Engineering student passionate about building systems that combine **Artificial Intelligence**, **Cybersecurity**, and **Software Engineering**.
 
-Currently, I'm focused on mastering Data Structures & Algorithms, strengthening backend development skills, and building practical projects while continuously learning modern technologies.
+Currently, I'm dedicating most of my time to **Data Structures & Algorithms**, strengthening my backend fundamentals, and building projects that turn concepts into practical experience.
 
+I believe consistency outweighs intensity. Every project, every solved problem, and every line of code is another step toward mastery.
+
+---
 
 # 🚀 Tech Stack
 
