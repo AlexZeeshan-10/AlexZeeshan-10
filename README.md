@@ -51,21 +51,16 @@ I believe consistency outweighs intensity. Every project, every solved problem, 
 # 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![](https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 
-</div>
+<br>
 
+<img height="170"
+src="https://github-readme-stats-fast.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexZeeshan-10&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexZeeshan-10&theme=tokyonight" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexZeeshan-10&theme=tokyonight" width="48%" />
+<img height="170"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
