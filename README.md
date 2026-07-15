@@ -99,13 +99,13 @@ I believe consistency outweighs intensity. Every project, every solved problem, 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 22 mins
+Total Time: 10 hrs 40 mins
 
-C++        8 hrs 54 mins         ███████████████████████▓░   95.01 %
-YAML       22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Text       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C++          9 hrs 33 mins         ██████████████████████▒░░   89.58 %
+YAML         50 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Markdown     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+HTML         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
