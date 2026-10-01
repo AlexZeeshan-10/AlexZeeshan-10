@@ -94,13 +94,13 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexZee
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 57 mins
+Total Time: 9 hrs 46 mins
 
-JavaScript   8 hrs 1 min           ██████████████████▒░░░░░░   73.22 %
-HTML         1 hr 19 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-EJS          58 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-CSS          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript   7 hrs 11 mins         ██████████████████▒░░░░░░   73.60 %
+HTML         59 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+EJS          58 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+CSS          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
