@@ -6,23 +6,9 @@
 
 # 🌿 Reflections
 
-> *"In the end, the greatest victory is not over kingdoms, but over oneself. When the battles are over and ambition grows quiet, all that remains is the peace to admire a sky that never asked who won."*
-
-<br>
-
-> *"Every battle eventually ends. Every title is forgotten. Every sword grows dull. Yet the wind still moves through the fields, and the trees continue to stand. Perhaps peace was the destination all along."*
-
-<br>
-
-> *"When the noise of ambition fades, nature reminds us what was always enough."*
-
-<br>
-
-> *"We spend our lives preparing for war against the world, only to discover that the greatest reward was the silence we ignored along the way."*
-
-<br>
-
-> *"Strength is forged in conflict, but wisdom is found in stillness. I hope that after every challenge I face, I never lose the ability to sit quietly and admire the world that existed long before me."*
+<!-- REFLECTION_START -->
+> *"Ambition burns bright, but it must learn from the forest: even the tallest trees rise slowly and hold their ground through every season."*
+<!-- REFLECTION_END -->
 
 </div>
 
