@@ -42,25 +42,32 @@ I believe consistency outweighs intensity. Every project, every solved problem, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,linux,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,express,bootstrap,npm,git,github,vscode,idea,clion,linux,kali,aws,gcp,postgres,postman&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 </div>
-
----
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=AlexZeeshan-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 
-<br>
-
-<img height="170"
-src="https://github-readme-stats-fast.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<br><br>
 
 <img height="170"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-stats-extended.vercel.app/api?username=AlexZeeshan-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="GitHub Stats" />
+
+<img height="170"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexZeeshan-10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+alt="Most Used Languages" />
 
 </div>
 
@@ -149,11 +156,13 @@ Text         1 min                 ▓░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZeeshan-10&theme=tokyo-night&hide_border=true" width="95%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZeeshan-10&bg_color=1a1b27&color=a9b1d6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6&border_color=1a1b27"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
-
----
 
 # 📫 Connect With Me
 
