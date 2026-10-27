@@ -112,20 +112,17 @@ Text         1 min                 ▓░░░░░░░░░░░░░░
 
 ---
 
-# 🐍 Contribution Snake
+---
+
+# 📈 3D Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/AlexZeeshan-10/AlexZeeshan-10/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
-</picture>
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  width="95%"
+  alt="3D GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -151,18 +148,6 @@ Text         1 min                 ▓░░░░░░░░░░░░░░
 - Build strong AI/ML foundations
 
 ---
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZeeshan-10&bg_color=1a1b27&color=a9b1d6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6&border_color=1a1b27"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
 
 # 📫 Connect With Me
 
