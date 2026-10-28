@@ -87,11 +87,13 @@ alt="Most Used Languages" />
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 mins
+Total Time: 2 hrs 31 mins
 
-C++          45 mins               ██████████████████████▓░░   91.17 %
-JavaScript   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Text         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Markdown     55 mins               █████████▒░░░░░░░░░░░░░░░   36.91 %
+C++          45 mins               ███████▓░░░░░░░░░░░░░░░░░   30.34 %
+JSON         31 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+HTML         8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+TypeScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
