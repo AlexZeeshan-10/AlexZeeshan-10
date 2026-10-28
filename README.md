@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Ambition burns bright, but it must learn from the forest: even the tallest trees rise slowly and hold their ground through every season."*
+> *"Inner peace is not the absence of storms, but the art of listening to the rain without losing your direction."*
 <!-- REFLECTION_END -->
 
 </div>
