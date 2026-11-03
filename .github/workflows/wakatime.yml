@@ -14,7 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update README stats from WakaTime
+        id: waka
+        continue-on-error: true
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
@@ -22,3 +25,7 @@ jobs:
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_MASKED_TIME: false
+
+      - name: Warn when WakaTime API update fails
+        if: ${{ steps.waka.outcome == 'failure' }}
+        run: echo "WakaTime API request failed (for example 403 Forbidden). Workflow continues without blocking scheduled jobs."
