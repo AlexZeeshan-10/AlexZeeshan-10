@@ -71,16 +71,37 @@ alt="Most Used Languages" />
 
 </div>
 
+---
+
+---
+
+---
+
 # 🏆 Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/alexzeeshan_10/">
-<img src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+  <img
+    src="https://leetcard.jacoblin.cool/alexzeeshan_10?theme=dark&font=JetBrains_Mono&ext=heatmap"
+    width="500"
+    alt="LeetCode Statistics and Activity"
+  />
+</a>
 
+<br><br>
+
+<a href="https://leetcode.com/u/alexzeeshan_10/">
+  <img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=alexzeeshan_10&theme=tokyonight&animated=true&limit=8"
+    width="500"
+    alt="LeetCode Badges"
+  />
 </a>
 
 </div>
+
+---
 
 # ⌛ Weekly Coding Activity
 
@@ -111,16 +132,6 @@ TypeScript   4 mins                ▓░░░░░░░░░░░░░░
   width="95%"
   alt="3D GitHub Contribution Graph"
 />
-
-</div>
-
----
-
-# 🏅 LeetCode Badges
-
-<div align="center">
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=alexzeeshan_10&theme=dark" />
 
 </div>
 
