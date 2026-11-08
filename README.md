@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Inner peace is not the absence of storms, but the art of listening to the rain without losing your direction."*
+> *"Wisdom grows when we stop measuring life by speed and begin measuring it by understanding."*
 <!-- REFLECTION_END -->
 
 </div>
