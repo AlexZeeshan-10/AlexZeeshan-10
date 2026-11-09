@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Wisdom grows when we stop measuring life by speed and begin measuring it by understanding."*
+> *"Personal growth begins the day we choose steady truth over comforting excuses."*
 <!-- REFLECTION_END -->
 
 </div>
