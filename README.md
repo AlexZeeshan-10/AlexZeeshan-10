@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"We spend our lives preparing for war against the world, only to discover that the greatest reward was the silence we ignored along the way."*
+> *"Strength is forged in conflict, but wisdom is found in stillness. I hope that after every challenge I face, I never lose the ability to sit quietly and admire the world that existed long before me."*
 <!-- REFLECTION_END -->
 
 </div>
