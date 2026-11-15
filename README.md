@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Strength is forged in conflict, but wisdom is found in stillness. I hope that after every challenge I face, I never lose the ability to sit quietly and admire the world that existed long before me."*
+> *"Discipline is the quiet river that carves through stone; it asks for no applause, only patience."*
 <!-- REFLECTION_END -->
 
 </div>
