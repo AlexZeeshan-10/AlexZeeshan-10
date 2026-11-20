@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Personal growth begins the day we choose steady truth over comforting excuses."*
+> *"In the end, the greatest victory is not over kingdoms, but over oneself. When the battles are over and ambition grows quiet, all that remains is the peace to admire a sky that never asked who won."*
 <!-- REFLECTION_END -->
 
 </div>
