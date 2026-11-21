@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"In the end, the greatest victory is not over kingdoms, but over oneself. When the battles are over and ambition grows quiet, all that remains is the peace to admire a sky that never asked who won."*
+> *"Every battle eventually ends. Every title is forgotten. Every sword grows dull. Yet the wind still moves through the fields, and the trees continue to stand. Perhaps peace was the destination all along."*
 <!-- REFLECTION_END -->
 
 </div>
