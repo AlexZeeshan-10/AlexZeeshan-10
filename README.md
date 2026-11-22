@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Every battle eventually ends. Every title is forgotten. Every sword grows dull. Yet the wind still moves through the fields, and the trees continue to stand. Perhaps peace was the destination all along."*
+> *"When the noise of ambition fades, nature reminds us what was always enough."*
 <!-- REFLECTION_END -->
 
 </div>
