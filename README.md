@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"When the noise of ambition fades, nature reminds us what was always enough."*
+> *"We spend our lives preparing for war against the world, only to discover that the greatest reward was the silence we ignored along the way."*
 <!-- REFLECTION_END -->
 
 </div>
