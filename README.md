@@ -7,7 +7,7 @@
 # 🌿 Reflections
 
 <!-- REFLECTION_START -->
-> *"Discipline is the quiet river that carves through stone; it asks for no applause, only patience."*
+> *"Ambition burns bright, but it must learn from the forest: even the tallest trees rise slowly and hold their ground through every season."*
 <!-- REFLECTION_END -->
 
 </div>
